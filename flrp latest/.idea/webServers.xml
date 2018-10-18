@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="1edb84d6-451f-4b2a-b7c8-3396fe4b720b" name="trusoft-dev" url="http://188.166.147.52">
+        <fileTransfer host="188.166.147.52" port="22" rootFolder="/home/trusoftng/fmdq/flrp" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
